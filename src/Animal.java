@@ -54,5 +54,10 @@ public class Animal {
         myAnimals.hangot_kiad();
         myDog.ugat();
         myCat.nyavog();
+
+        Kutya myDog2 = new Kutya("Lord");
+        Macska myCat2 = new Macska("Mirci");
+        myDog2.ugat();
+        myCat2.nyavog();
     }
 }
