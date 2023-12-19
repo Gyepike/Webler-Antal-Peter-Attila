@@ -44,6 +44,7 @@ class Macska extends Allatok {
         System.out.println("Miauuuuuu");
     }
 }
+
 // itt minden Allat tipusnak megfelelo hangott ad ki a kutya : Vau Vau MAcsak Miauuu
 public class Animal {
     public static void main(String[] args) {
